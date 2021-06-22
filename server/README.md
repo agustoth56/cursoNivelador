@@ -1,4 +1,4 @@
-# EvaluacionCursoNiveladorServer
+# Como Correr la WebApp
 Esta WebApp nos va a permitir recibir un mensaje correspondiente al metodo que elijamos utilizar (siendo GET o POST las opciones) para luego recibir los resultados con una vaquita y un "pop up" arriba de ella con el mensaje que nos quiera decir.
 
 Instrucciones:

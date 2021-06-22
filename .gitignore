@@ -1,5 +1,4 @@
-node-npm_intro/node_modules/*
-docker_intro/node_modules/*
-PDF/
-Pruebas/Code
-Pruebas/
+server/node_modules/*
+docker/node_modules/*
+PDF/*
+Pruebas/*

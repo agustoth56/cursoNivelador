@@ -6,10 +6,10 @@ Instrucciones:
 
 Teniendo previamente instalado el Docker:
 
-1- Vamos a crearnos una imagen para poder reproducir esta WebApp ingresando en una consola de comandos (cualquiera sea su preferencia) vamos a situarnos en la carpeta donde tenemos todos los archivos para crear la WebApp y vamos a copiar el siguiente script "docker build . -t  <usuario-docker>/<nombre-de-la-imagen>".
+1- Vamos a crearnos una imagen para poder reproducir esta WebApp ingresando en una consola de comandos (cualquiera sea su preferencia) vamos a situarnos en la carpeta donde tenemos todos los archivos para crear la WebApp y vamos a copiar el siguiente script "docker build . -t  *usuario-docker*/*nombre-de-la-imagen*".
 Luego con esto ya tenemos creada la imagen con nuestra WebApp, ahora solo falta correrla para ponerla a funcionar.
   
-2- Para poner a funcionar esta imagen dockerizada vamos a ingresar el siguiente script en la consola "docker run -p 5554:8080 -d <usuario-docker>/<nombre-de-la-imagen>" siendo el nombre de la imagen el mismo que ingresamos anteriormente para crearla.
+2- Para poner a funcionar esta imagen dockerizada vamos a ingresar el siguiente script en la consola "docker run -p 5554:8080 -d *usuario-docker*/*nombre-de-la-imagen*" siendo el nombre de la imagen el mismo que ingresamos anteriormente para crearla.
   
 3- Ingresaremos al Postman (previamente instalado en nuestro PC).
   

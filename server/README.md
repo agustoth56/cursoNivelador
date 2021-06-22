@@ -5,9 +5,12 @@ Instrucciones:
 
 Teniendo previamente instalado el NodeJS y en un directorio tener la carpeta "node_modules" dentro:
 
-1- Vamos a instalar las extensiones "express" y "cowsay".
+1- Copiaremos al directorio donde tenemos la carpeta "node_modules" todos los archivos que se encuentran en este directorio llamado "server".
 
-2- Copiaremos al directorio donde tenemos la carpeta "node_modules" todos los archivos que se encuentran en este directorio llamado "server".
+2- Vamos a instalar las extensiones "express" y "cowsay".
+  2.1- Ingresamos a una consola de comandos y nos posicionamos donde tenemos nuestra WebApp (directorios, archivos, etc.)
+  2.2- Luego escribimos el comando *npm install express* para instalar la extension express.
+  2.3- Luego escribimos el comando *npm install cowsay* para instalar la extension cowsay.
 
 3- Ingresaremos al Postman (previamente instalado en nuestro PC).
 
